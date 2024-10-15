@@ -49,6 +49,7 @@ header {
     border: 2px solid #000000;
     padding: 16px;
     width: min-content;
+    margin: 15px;
 }
 
 .nav_bar_container h2 {
@@ -108,4 +109,8 @@ main {
 
 #contact {
     border: 2px solid #000000;
+}
+
+form {
+    padding: 30px;
 }
